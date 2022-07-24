@@ -1,3 +1,3 @@
 # evansprofile
-this is my portfolio profile 
-et to know more about me
+this is my portfolio profile .
+get to know more about me
