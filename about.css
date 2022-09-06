@@ -234,7 +234,71 @@ footer{
     }
     div.navbrand img{
         width: 65px;
+        heigh@media (max-width:678px){
+    body{
+        overflow-x: hidden;
+    }
+    body{
+        margin: 0;
+        overflow-x: hidden;
+    }
+    nav{
+        width: 100%;
+        
+    }
+    div.header{
+        display: block;
+       width: 95%;
+        margin-top: 1%;
+        border-radius: 40px;
+        box-shadow: 1px 1px 5px white;
+    }
+    div.navbrand{
+        display: flex;
+        width: 100%; 
+    }
+    div.navbrand a{
+        color: white;
+        padding: 5px;
+    }
+    div.navbrand img{
+        width: 65px;
         height: 65px;
+        @media (max-width:678px){
+    body{
+        overflow-x: hidden;
+    }
+    body{
+        margin: 0;
+        overflow-x: hidden;
+    }
+    nav{
+        width: 100%;
+        
+    }
+    div.header{
+        display: block;
+       width: 95%;
+        margin-top: 1%;
+        border-radius: 40px;
+        box-shadow: 1px 1px 5px white;
+    }
+    div.navbrand{
+        display: flex;
+        width: 100%; 
+    }
+    div.navbrand a{
+        color: white;
+        padding: 5px;
+    }
+    div.navbrand img{
+        width: 65px;
+        height: 65px;
+        border-radius: 50%;
+        padding-top: 5px;
+    }border-radius: 50%;
+        padding-top: 5px;
+    }t: 65px;
         border-radius: 50%;
         padding-top: 5px;
     }
