@@ -1357,6 +1357,7 @@ div.form{
     background-color: aliceblue;
     padding-top: 8px;
     position: relative;
+    width:100%;
 }
 div.icon{
     position: absolute;
@@ -1434,8 +1435,17 @@ div input.submit{
     #contact div.top{
         padding-top: 20%;
     }
+    div.form{
+    background-color: aliceblue;
+    padding-top: 8px;
+    position: relative;
+    width:100%;
+}
     form div.one{
         display: inline-block;
+    }
+    div.form{
+    width:100%;
     }
     div.input-group{
         margin-top: 5%;
@@ -1447,7 +1457,7 @@ div input.submit{
         width: 90%;
     }
     form input{
-        width: 300px;
+        width: 100%;
     }
     div.three{
         margin-top: 5%;
