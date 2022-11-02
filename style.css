@@ -1457,7 +1457,7 @@ div input.submit{
         width: 90%;
     }
     form input{
-        width: 100%;
+        width: 270px;
     }
     div.three{
         margin-top: 5%;
@@ -1469,7 +1469,7 @@ div input.submit{
        
         font-weight: bolder;
     }
-    form div.one div.input-group{
+    form div.one div.input-group, div.two textarea{
     margin-right:    0px;
     padding: 0 5px;
 }
