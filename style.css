@@ -1453,11 +1453,9 @@ div input.submit{
     div.two{
         margin-top: 5%;
     }
-    div.two textarea{
-        width: 90%;
-    }
-    form input{
-        width: 270px;
+    
+    form input, textarea{
+        width: 250px;
     }
     div.three{
         margin-top: 5%;
