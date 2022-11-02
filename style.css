@@ -322,8 +322,8 @@ div.contact p span{
         padding-right: 5%;
     }
     div.buttons {
-        margin-left: 5%;
-        margin-top: 9%;
+        margin-left: 2%;
+        margin-top: 10%;
         margin-bottom: 13%;
         text-align: center;
     }
@@ -931,6 +931,7 @@ div.services a{
         width: 100%;
         display: inline-block;
         margin-bottom: -70%;
+        
     }
     #portfolio  div.left{
         width: 100%;
@@ -1014,7 +1015,7 @@ div.services a{
  
    #portfolio div.right{
      width: 100%;
-     
+     margin-right:0;
  }
  div.des{
      background-image: url(assets/img/1.jpg);
@@ -1057,10 +1058,10 @@ div.services a{
  }
  div.des div.back img{
      position: absolute;
-     width: 150px;
-     height: 150px;
+     width: 27%;
+     height: 29;
      top: 0;
-     right: 8%;
+     right: 0%;
      border-radius: 6px;
      border-bottom-left-radius: 50%;
      border-bottom-right-radius: 50%;
@@ -1097,7 +1098,7 @@ div.services a{
      padding-left: 15px;
      padding-top: 15px;
      padding-bottom: 42px;
-     padding-right: 10%;
+     padding-right: 0%;
      
  }
  div.services h6{
@@ -1196,14 +1197,14 @@ div.services a{
    .portfolio img {
      width: 40%;
      height: 40%;
-     margin: 20px;
+     margin: 3%;
      box-shadow: 2px 2px 5px black;
      border-radius: 7px;
    }
    #portfolio footer{
     background-color:black;
     position: absolute;
-    bottom: -7%;
+    bottom: -8%;
     width: 100%;
 }
 }
@@ -1446,7 +1447,7 @@ div input.submit{
         width: 90%;
     }
     form input{
-        width: 80%;
+        width: 300px;
     }
     div.three{
         margin-top: 5%;
@@ -1458,4 +1459,8 @@ div input.submit{
        
         font-weight: bolder;
     }
+    form div.one div.input-group{
+    margin-right:    0px;
+    padding: 0 5px;
+}
 }
