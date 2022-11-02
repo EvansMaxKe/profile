@@ -1431,7 +1431,7 @@ div input.submit{
 }
 
 /* contact page mobile naviation */
-@media (max-width:678px){
+@media (max-width:700px){
     #contact div.top{
         padding-top: 20%;
     }
