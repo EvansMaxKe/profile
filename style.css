@@ -1435,28 +1435,27 @@ div input.submit{
     #contact div.top{
         padding-top: 20%;
     }
+    form div.one{
+        display: inline-block;
+    }
     div.form{
     background-color: aliceblue;
     padding-top: 8px;
     position: relative;
     width:100%;
 }
-    form div.one{
-        display: inline-block;
-    }
-    div.form{
-    width:100%;
-    }
     div.input-group{
         margin-top: 5%;
     }
     div.two{
         margin-top: 5%;
     }
-    
-    form input, textarea{
-        width: 250px;
-    }
+    form div.one div.input-group input, div.two textarea{
+    width: 250px;
+    border: 1px solid orangered;
+    border-radius: 8px;
+    box-shadow: 2px 2px 4px black;
+}
     div.three{
         margin-top: 5%;
     }
